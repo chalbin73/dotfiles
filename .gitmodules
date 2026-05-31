@@ -1,3 +1,3 @@
 [submodule "nvim-config"]
 	path = nvim-config
-	url = https://git.chaboissier.fr/octagonal/nvim-config.git
+	url = https://github.com/chalbin73/nvim-config
